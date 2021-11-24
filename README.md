@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning NLP/RS
 - 📫 How to reach me: xuzhi1994@hotmail.com
-- ![ambition1994](https://github-readme-stats.vercel.app/api?username=ambition1994&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=vue)
+![ambition1994](https://github-readme-stats.vercel.app/api?username=ambition1994&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=vue)
