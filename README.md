@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/zhi-xu-keep-passion/](https://www.linkedin.com/in/zhi-xu-keep-passion/)
 
-- ⚡ My interest **Reading, Fitness, Basketball, Digital devices**
+- ⚡ My interest **Reading, Fitness, Photography, Basketball, Digital devices**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
