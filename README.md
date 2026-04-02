@@ -15,7 +15,7 @@
 
 ### 🌟 About Me
 - **Current Focus**: Building intelligent systems with **Large Language Models (LLM)** and **Autonomous AI Agents**.
-- 🌱 I’m actively learning & exploring: **Reinforcement Learning (RL)**, **LLM Agents**, **C++**, **Go**
+- 🌱 I’m actively learning & exploring: **Reinforcement Learning (RL)**, **LLM Agents**
 - 📝 I regularly write technical articles on [Zhihu](https://www.zhihu.com/column/c_1333214541204316160) (Machine Learning & AI topics)
 - 💬 Ask me about: **Machine Learning, Python, LLM, AI Agents**
 - 📫 Reach me: **xuzhi1994@hotmail.com**
@@ -35,9 +35,7 @@ I'm deeply passionate about **Agentic AI** — moving from traditional ML models
 - **Agent Frameworks**: LangChain/LangGraph, LlamaIndex, CrewAI, Semantic Kernel
 
 **Featured Agent Projects** (add your repos here):
-- [Project Name] — Autonomous Research Agent with web browsing & summarization
-- [Project Name] — Multi-Agent Workflow for Data Analysis & Reporting
-- [Project Name] — RL Agent for [specific task, e.g., Game / Optimization]
+
 
 **Want to collaborate or discuss Agentic AI?** Feel free to reach out!
 
@@ -60,7 +58,7 @@ I'm deeply passionate about **Agentic AI** — moving from traditional ML models
 **Core Skills**:
 - **ML/DL**: PyTorch, TensorFlow, Scikit-learn, Pandas, Seaborn
 - **Agent & LLM**: LangGraph, CrewAI, AutoGen, OpenAI API, Hugging Face
-- **Backend & DevOps**: Go, C++, Docker, AWS, Flask, PostgreSQL, Elasticsearch
+- **Backend & DevOps**: Docker, AWS, Flask, PostgreSQL, Elasticsearch
 - **Others**: Git, Linux, MATLAB, SQL
 
 ---
