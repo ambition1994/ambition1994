@@ -14,7 +14,7 @@
 ---
 
 ### 🌟 About Me
-- **Current Focus**: Building intelligent systems with **Large Language Models (LLM)** and **Autonomous AI Agents** and **Claude Code**.
+- **Current Focus**: Building Machine Learning systems with **Large Language Models (LLM)** and **Autonomous AI Agents** and **Claude Code**.
 - 🌱 I’m actively learning & exploring: **Reinforcement Learning (RL)**, **LLM Agents**
 - 📝 I regularly write technical articles on [Zhihu](https://www.zhihu.com/column/c_1333214541204316160) (Machine Learning & AI topics)
 - 💬 Ask me about: **Machine Learning, Python, LLM, AI Agents**
