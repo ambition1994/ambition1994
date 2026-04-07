@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ambition (Zhi Xu)</h1>
-<h3 align="center">🚀 Passionate Machine Learning Engineer & Data Scientist | LLM & AI Agent Explorer in Shanghai</h3>
+<h3 align="center">🚀 Passionate  **LLM & AI Agent Explorer** & Machine Learning Engineer & Data Scientist in Shanghai</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ambition1994&label=Profile%20views&color=0e75b6&style=flat" alt="ambition1994" />
