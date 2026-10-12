@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ambition (Zhi Xu)</h1>
-<h3 align="center">From Data Scientist to Builder · Shipping LLM & AI Agent Products · Shanghai 🇨🇳</h3>
+<h3 align="center">Data Scientist / Algorithm Engineer <b>+</b> AI-Native Builder · Shanghai 🇨🇳</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zhi-xu-keep-passion/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTExNiAzSDEyYTguOTEgOC45MSAwIDAwLTkgOC44djEwNC40MmE4LjkxIDguOTEgMCAwMDkgOC43OGgxMDRhOC45MyA4LjkzIDAgMDA5LTguODFWMTEuNzdBOC45MyA4LjkzIDAgMDAxMTYgM3pNMzkuMTcgMTA3SDIxLjA2VjQ4LjczaDE4LjExem0tOS02Ni4yMWExMC41IDEwLjUgMCAxMTEwLjQ5LTEwLjUgMTAuNSAxMC41IDAgMDEtMTAuNTQgMTAuNDh6TTEwNyAxMDdIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44NyA3LjM2LTEwLjg3IDE1VjEwN0g1MC41M1Y0OC43M2gxNy4zNnY4aC4yNGMyLjQyLTQuNTggOC4zMi05LjQxIDE3LjEzLTkuNDFDMTAzLjYgNDcuMjggMTA3IDU5LjM1IDEwNyA3NXoiLz48L3N2Zz4=" alt="LinkedIn" /></a>
@@ -12,14 +12,15 @@
 
 ### 🌟 About Me
 
-I spent years as a **data scientist** — training models, running experiments, and turning data into insights.
-Now I'm a **builder**: I take what I learned about data and modeling and use it to ship real products with LLMs and AI agents.
+I'm a **data scientist / algorithm engineer** — I train models, run experiments, and turn data into decisions.
+I'm also an **AI-native builder** — I ship real products with LLMs and AI coding agents.
+The two make each other stronger: modeling depth makes what I build trustworthy, and AI-native building turns my models into products people use.
 
 - 🔨 **Building**: end-to-end tools and workflows powered by LLMs, autonomous agents, and Claude Code
-- 🧩 **What I bring**: a data scientist's rigor — clear metrics, careful evaluation, and fast iteration
+- 🧩 **What I bring**: algorithm depth + builder speed — clear metrics, careful evaluation, and fast iteration
 - 🌱 **Learning**: reinforcement learning (RL), agent architectures, and product thinking
 - 📝 **Writing**: technical articles on ML & AI on my [Zhihu column](https://www.zhihu.com/column/c_1333214541204316160)
-- 💬 **Ask me about**: machine learning, LLMs, AI agents, going from model to product
+- 💬 **Ask me about**: machine learning, recommender systems, LLMs, AI agents, turning models into products
 - ⚡ **Interests**: reading, fitness, photography, basketball, gadgets
 
 ---
@@ -37,7 +38,7 @@ I build with **AI coding agents** as my team — they take an idea from a notebo
 
 ### 📌 Featured Projects
 
-From data science practice to products I've built:
+Across algorithms and AI-native products:
 
 | Project | Description |
 | --- | --- |
