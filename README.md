@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ambition (Zhi Xu)</h1>
+<h1 align="center">Hi 👋, I'm Ambition</h1>
 <h3 align="center">Data Scientist / Algorithm Engineer <b>+</b> AI-Native Builder · Shanghai 🇨🇳</h3>
 
 <p align="center">
