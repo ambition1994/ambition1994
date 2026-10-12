@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ambition (Zhi Xu)</h1>
-<h3 align="center">Data Scientist · LLM & AI Agent Builder · Shanghai 🇨🇳</h3>
+<h3 align="center">From Data Scientist to Builder · Shipping LLM & AI Agent Products · Shanghai 🇨🇳</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zhi-xu-keep-passion/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTExNiAzSDEyYTguOTEgOC45MSAwIDAwLTkgOC44djEwNC40MmE4LjkxIDguOTEgMCAwMDkgOC43OGgxMDRhOC45MyA4LjkzIDAgMDA5LTguODFWMTEuNzdBOC45MyA4LjkzIDAgMDAxMTYgM3pNMzkuMTcgMTA3SDIxLjA2VjQ4LjczaDE4LjExem0tOS02Ni4yMWExMC41IDEwLjUgMCAxMTEwLjQ5LTEwLjUgMTAuNSAxMC41IDAgMDEtMTAuNTQgMTAuNDh6TTEwNyAxMDdIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44NyA3LjM2LTEwLjg3IDE1VjEwN0g1MC41M1Y0OC43M2gxNy4zNnY4aC4yNGMyLjQyLTQuNTggOC4zMi05LjQxIDE3LjEzLTkuNDFDMTAzLjYgNDcuMjggMTA3IDU5LjM1IDEwNyA3NXoiLz48L3N2Zz4=" alt="LinkedIn" /></a>
@@ -12,26 +12,32 @@
 
 ### 🌟 About Me
 
-- 🔭 **Current focus**: building machine learning systems with LLMs, autonomous AI agents, and Claude Code
-- 🌱 **Learning**: reinforcement learning (RL) and LLM agents
+I spent years as a **data scientist** — training models, running experiments, and turning data into insights.
+Now I'm a **builder**: I take what I learned about data and modeling and use it to ship real products with LLMs and AI agents.
+
+- 🔨 **Building**: end-to-end tools and workflows powered by LLMs, autonomous agents, and Claude Code
+- 🧩 **What I bring**: a data scientist's rigor — clear metrics, careful evaluation, and fast iteration
+- 🌱 **Learning**: reinforcement learning (RL), agent architectures, and product thinking
 - 📝 **Writing**: technical articles on ML & AI on my [Zhihu column](https://www.zhihu.com/column/c_1333214541204316160)
-- 💬 **Ask me about**: machine learning, Python, LLMs, AI agents
+- 💬 **Ask me about**: machine learning, LLMs, AI agents, going from model to product
 - ⚡ **Interests**: reading, fitness, photography, basketball, gadgets
 
 ---
 
-### 🧠 Agentic AI Exploration
+### 🧠 What I'm Building With
 
-I'm passionate about **agentic AI** — moving from traditional ML models to autonomous agents that can reason, plan, and act.
+I build with **AI coding agents** as my team — they take an idea from a notebook to a shipped product, and I focus on the problem, the design, and the quality bar.
 
-- **LLM-powered agents** — ReAct, chain-of-thought, tool use
-- **Multi-agent systems** — collaboration between specialized agents (LangGraph, CrewAI, AutoGen)
-- **RL agents** — training agents for decision-making in dynamic environments
-- **Agent frameworks** — LangChain / LangGraph, LlamaIndex, CrewAI, Semantic Kernel
+- **Claude Code** — my main build partner: subagents, skills, hooks, and MCP for end-to-end workflows (e.g. [resume-optimize](https://github.com/ambition1994/resume-optimize))
+- **Codex** — parallel coding tasks, code review, and a second opinion on tricky changes
+- **Grok** — fast research, brainstorming, and staying on top of what's new in AI
+- **How I work** — spec first, let agents build, then verify with tests and evals like a data scientist would
 
 ---
 
 ### 📌 Featured Projects
+
+From data science practice to products I've built:
 
 | Project | Description |
 | --- | --- |
@@ -59,9 +65,8 @@ I'm passionate about **agentic AI** — moving from traditional ML models to aut
 
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge" alt="Codex" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge" alt="Grok" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
@@ -88,4 +93,4 @@ I'm passionate about **agentic AI** — moving from traditional ML models to aut
 
 ---
 
-<p align="center"><i>"Keep passion, build intelligent agents."</i> — Let's create the future of AI together 🤖</p>
+<p align="center"><i>"Keep passion, keep building."</i> — Let's ship the future of AI together 🤖</p>
